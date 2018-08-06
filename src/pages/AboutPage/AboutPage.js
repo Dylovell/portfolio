@@ -42,9 +42,6 @@ const AboutPage = (props, context) => {
             <p>
 My exposure to IT was extremally helpful for the next step, Web Development. The opportunity to attend a Web Development Bootcamp, called Dev Mountain, arose and I jumped on the opportunity.  I have loved How much this bootcamp and set a foundation to build on, and the tool set it gave me to make/learn to make anything I want! 
             </p>
-            <p>
-              Email me for any inquries  <span className="highlight">Dylovell@live.com</span>
-            </p>
             <p className="text-emoji" style={{ color: colorPrimary }}>
               \ (•◡•) /
             </p>

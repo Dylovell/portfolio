@@ -3,3 +3,19 @@ footer {
   text-align: right;
   font-size: 0.625rem;
 }
+
+.about-wrapper {
+  display: flex;
+}
+
+.tagline {
+  font-size: 1.375rem;
+  margin: 1.5rem 0;
+  font-weight: 300;
+}
+
+.contact-picture {
+  justify-content: right;
+  height: 150px;
+  margin-left: 130px;
+}
