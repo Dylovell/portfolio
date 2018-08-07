@@ -25,15 +25,13 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-            I am extremely motivated to find solutions to problems. 
+            I am extremely motivated by finding solutions to problems. Technology I love to use 
             </p>
+            <h2><span className="highlight">JavaScript</span>  React-Redux  <span className="highlight">Node.js</span></h2>
+            <h2>Express  <span className="highlight">HTML/CSS</span>  and much more!</h2>
             <p>
               I love learning how everything works, whether it is a Web Technology, astrophysics, or a manufacturing process.  
             </p>
-            <h1>
-            <span className="highlight">JavaScript</span>  React-Redux  <span className="highlight">Node.js</span>
-            </h1>
-            <h1>Express  <span className="highlight">HTML/CSS</span>  and much more!</h1>
             <p>
               I was born curious about the world. From a young age I had a deep interest in making and building. From Lego pinball machines to discovering basic circuitry using aluminum foil and duck tape, I never wanted to stop learning. Thankfully that fire never went out, and I am still learning and making new things all the time.  
             </p>
