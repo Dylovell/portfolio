@@ -28,9 +28,10 @@ const AboutPage = (props, context) => {
             <br/>
             <p>Dylovell@live.com</p>
             <br/>
-            <p>Linkedin.com/in/DylanLovell</p>
+            <a style={{ color: colorPrimary }} href="Linkedin.com/in/DylanLovell">Linkedin.com/in/DylanLovell</a>
             <br/>
-            <p href="Github.com/Dylovell">Github.com/Dylovell</p>
+            <br/>
+            <a style={{ color: colorPrimary }} href="Github.com/Dylovell">Github.com/Dylovell</a>
             <p className="text-emoji" style={{ color: colorPrimary }}>
             </p>
           </div>
